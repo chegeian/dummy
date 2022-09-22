@@ -1,25 +1,33 @@
-# DELANI STUDIO
-#### Delani studio is a basic website aimed at helping students familiarize with various JQuery and Bootstrap concepts.
+## Happy Birthday!!!
 
-<img src="images/de.png" alt="site pic">
+### Wish someone special happy birthday in a special way.
 
-## Usage and setup.
-To practice with Delani studio, clone or download this repository (link in the section below) to your local machine, fire up your favorite text editor and start practicing!
+#### [See it Live](https://faahim.github.io/happy-birthday/)
+
+#### Update: Now you can customize all the texts without modifying the code!
+
+On the birthday of a special friend, I felt like the generic happy birthday text just wasn't gonna cut it for me. So I put together this animated web page at the last minute to wish them Happy Birthday.
+
+I decided to publish it so that you can use it to make the special people in your life feel a bit more of what they truly are: special.
+You can create your very own happy-birthday page in a few easy steps:
+
+* Fork the repository
+* Open `customize.json` and replace the content with your own
+* Turn on GitHub pages for your repository (Settings > Pages)
+* Share the URL you get at the above step with your friend
+
+**You do not need to create Pull Request to this main repository to get it running.**
+
+I've created the JSON file (`customize.json`) for easy and quick customizability. It allows you the change all of the texts and the image used on the webpage without modifying the code. However, If you want to customize it further, leave the JSON fields empty and edit the HTML file directly. This is because the content in the JSON file overwrites the HTML.
+
+Please note that I've created this page in a hurry and it comes with no warranty.
+
+Feel free to [get in touch with me](mailto:afiur.fahim@gmail.com) if you need any help with it. You can [find me on Twitter](https://twitter.com/faahim01) as well. :)
 
 
-## Setup instructions
-*  No Setup is necessarily required but you are required to have a internet browser in order to view the website. 
+## Contributing
 
+I've used plain HTML, CSS and JavaScript with [GSAP](https://greensock.com/gsap) for animations.
+If you have any idea to improve it or make it more interesting, feel free to send a PR, or create an issue for a feature request.
 
-## Technologies Used
-* HTML
-* CSS
-* JQuery
-* Javascript
-+ Bootstrap
-
-## Support and contact details
-contact me @ chegeian65@gmail.com
-### License
-The project is under [MIT license](https://github.com/chegeian/Delani-studio.git)
-Copyright & copy; 2022.All rigths reserved
+Happy wishing! 🎉
