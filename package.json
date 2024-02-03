@@ -1,5 +1,5 @@
 {
-  "name": "happy-birthday",
+  "name": "VVVVV",
   "version": "1.0.0",
   "description": "An app that let's you say happy birthday to your friend in a nerdy way.",
   "main": "index.js",
@@ -19,8 +19,7 @@
     "url": "git+https://github.com/faahim/happy-birthday.git"
   },
   "keywords": [
-    "Happy",
-    "Birthday"
+    "VVVV"
   ],
   "author": "CHEGE",
   "license": "MIT",
