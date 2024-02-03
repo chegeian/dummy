@@ -219,6 +219,7 @@ body {
 }
 
 .wish-hbd {
+  color: black;
   font-size: 3em;
   margin: 0;
   text-transform: uppercase;
@@ -236,6 +237,7 @@ body {
 }
 
 #replay {
+  color: black;
   z-index: 3;
   cursor: pointer;
 }
